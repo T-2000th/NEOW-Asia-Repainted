@@ -1,0 +1,63 @@
+k_burapha= {
+	color={ 20 50 130 }
+	color2={ 0 0 200 }
+
+	allow = {
+		conditional_tooltip = {
+			trigger = {
+				k_burapha = {
+					is_titular = yes
+				}
+			}
+			k_burapha = {
+				is_titular = no
+			}
+		}
+	}
+}
+
+k_burirath= {
+	color={ 112 100 150 }
+	color2={ 0 0 200 }
+
+	allow = {
+		conditional_tooltip = {
+			trigger = {
+				k_burirath = {
+					is_titular = yes
+				}
+			}
+			k_burirath = {
+				is_titular = no
+			}
+		}
+	}
+}
+
+#e_suvarnabhumi= {
+#	color={ 250 35 27 }
+#	color2={ 81 27 43 }
+#	
+#	
+#	dignity = 100
+#
+#	allow = {
+#		conditional_tooltip = {
+#			trigger = {
+#				e_suvarnabhumi = {
+#					is_titular = yes
+#				}
+#			}
+#			e_suvarnabhumi = {
+#				is_titular = no
+#			}
+#		}
+#	}
+#	
+#	
+#	short_name = yes
+#	assimilate = no
+#
+#	dynasty_title_names = no
+#
+#}

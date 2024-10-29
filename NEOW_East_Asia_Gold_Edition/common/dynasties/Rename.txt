@@ -1,0 +1,48 @@
+3732921 = {
+	name="Shao"
+	culture="kayah"
+	religion="thaislam"
+	used_for_random=no
+}
+3732922 = {
+	name="Pe"
+	culture="karen"
+	religion="theravada"
+	used_for_random=no
+}
+3732955 = {
+	name="Phratabong"
+	culture="siamese"
+	religion="theravada"
+	used_for_random=no
+}
+3732957 = {
+	name="Ramazan"
+	culture="novorusskiy"
+	religion="vostokist"
+	used_for_random=no
+}
+3732958 = {
+	name="Bansuea"
+	culture="amriqi"
+	religion="syafi"
+	used_for_random=no
+}
+3732959 = {
+	name="Bansingh"
+	culture="siamese"
+	religion="thaislam"
+	used_for_random=no
+}
+3732960 = {
+	name="Muensamann"
+	culture="south_thai"
+	religion="syafi"
+	used_for_random=no
+}
+3732961 = {
+	name="Ghalley"
+	culture="south_thai"
+	religion="bhutanese"
+	used_for_random=no
+}
